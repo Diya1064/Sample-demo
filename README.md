@@ -1,3 +1,3 @@
 # Sample-demo
 This is my First Sample Repository
-Author: Diya Chilmulwar
+<br/>Author: Diya Chilmulwar
